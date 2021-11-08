@@ -1,0 +1,27 @@
+{
+	"info": {
+		"_postman_id": "1a049672-8abb-4b9a-9e79-f4a11fc54ac9",
+		"name": "mock-mvc-example",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "SaveStudent",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		},
+		{
+			"name": "GetStudentById",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		}
+	]
+}
